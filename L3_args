@@ -1,0 +1,5 @@
+#2.Lab3
+def add_numbers(*args):
+    return sum(args)
+print(add_numbers(11,24,37,43))
+    
